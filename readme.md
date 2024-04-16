@@ -2,6 +2,8 @@
 
 This project is a simplified version of Spotify, built using HTML, CSS, and JavaScript. It allows users to fetch playlists, along with their titles, descriptions, and songs, all from memory. 
 
+### See the Demo [here](spotifyclonedemo.netlify.app)
+
 ## Features
 
 - Fetch playlists from memory
